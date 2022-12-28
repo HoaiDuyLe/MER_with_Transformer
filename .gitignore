@@ -1,0 +1,7 @@
+data.zip
+__pycache__
+*.pt
+data
+*.ipynb
+savings/
+.vscode/
